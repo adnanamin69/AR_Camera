@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AR Camera</string>
+    <string name="point_your_phone_down">Pont your phone</string>
+    <string name="tap_anywhere_to_add_model">Tap anywhere</string>
+</resources>
